@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
 <h3 align="center">"Full-stack developer from India with a strong passion for building intuitive and impactful digital experiences."</h3>
-
 <img align="right" alt="coding" width="400" src=https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikaraje&label=Profile%20views&color=0e75b6&style=flat" alt="vanshikaraje" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshikaraje" alt="vanshikaraje" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikaraje&label=Profile%20views&color=0e75b6&style=flat" alt="vanshikaraje" /> </p>
 
 - 🔭 I’m currently working on **medical-ai**
 
@@ -35,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikaraje&show_icons=true&locale=en" alt="vanshikaraje" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikaraje&" alt="vanshikaraje" /></p>
+
