@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **vanshikaraje010@gmail.com**
 
-- ⚡ Fun fact **i think iam funny**
+- ⚡ Fun fact **i think iam funny*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
