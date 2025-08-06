@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/vanshikaraje/vanshikaraje/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 
 
-<h1 align="center">Hi 👋, I' Vanshika</h1>
+<h1 align="center">Hi 👋, I'm Vanshika</h1>
 <h3 align="center">"Full-stack developer from India with a strong passion for building intuitive and impactful digital experiences."</h3>
 <img align="right" alt="coding" width="400" src=https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif/>
 
