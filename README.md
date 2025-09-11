@@ -4,6 +4,12 @@
 <h3 align="center">"Full-stack developer from India with a strong passion for building intuitive and impactful digital experiences."</h3>
 <img align="right" alt="coding" width="400" src=https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif/>
 
+<p align="center">
+<a href="https://my-portfolio-ten-mu-42.vercel.app" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/💻-Portfolio-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
+</a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikaraje&label=Profile%20views&color=0e75b6&style=flat" alt="vanshikaraje" /> </p>
 
 - 🔭 I’m currently working on **medical-ai**
@@ -24,7 +30,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/vanshika_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshika_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vanshikaraje010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanshikaraje010" height="30" width="40" /></a>
-<a href="https://my-portfolio-ten-mu-42.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
