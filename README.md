@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src=https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif/>
 
 <p align="center">
-<a href="https://my-portfolio-ten-mu-42.vercel.app" target="_blank" style="text-decoration:none;">
+<a href="https://vanshika-tau.vercel.app" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/💻-Portfolio-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
 </a>
 </p>
